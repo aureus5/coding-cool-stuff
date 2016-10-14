@@ -1,3 +1,5 @@
 ---in c, struct are not linked, unlike functions and variables. Best practice: declare and define it in header:
 http://stackoverflow.com/questions/6316987/should-struct-definitions-go-in-h-or-c-file
 
+python, use "import module" or "from module import foo"
+http://stackoverflow.com/questions/710551/import-module-or-from-module-import
